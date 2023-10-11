@@ -1,0 +1,20 @@
+.container {
+	width: 1024px;
+	margin: 0 auto;
+}
+.sidebar {
+	float: left;
+	width: 250px;
+	height: 300px;
+}
+
+
+.main-content {
+	float: left;
+	width: 734px;
+	height: 300px;
+}
+
+.footer {
+	clear: both;
+}
